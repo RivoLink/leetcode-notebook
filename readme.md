@@ -1,5 +1,5 @@
 ### Un mot
-Ce repo est pour tous ceux qui souhaitent s'initier aux algorithmes, au langage python, et à jupyter notebook en même temps :)
+Ce repo est pour tous ceux qui souhaitent s'initier aux algorithmes, au langage python, et à jupyter notebook en même temps 😉 
 
 Les algorithms de ce repo proviennent de l'application android [APAS](https://play.google.com/store/apps/details?id=com.freetymekiyan.apas&hl=fr&gl=US) qui elle aussi a importé les algorithms depuis [https://leetcode.com/](https://leetcode.com/).
 
