@@ -13,16 +13,17 @@ ou [LinkedIn](https://www.linkedin.com/mwlite/in/rivo-link).
 
 #### Level 1
 
-- Implement strStr()
-- Longest Common Prefix
-- Merge Two Sorted Lists
-- Palindrome Number
-- Remove Duplicates from Sorted Array
-- Remove Element
-- Reverse Integer
-- Roman to Integer
-- Two Sum
-- Valid Parentheses
+- [Implement strStr()](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Implement%20strStr().ipynb)
+- [Longest Common Prefix](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Longest%20Common%20Prefix.ipynb)
+- [Merge Two Sorted Lists](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Merge%20Two%20Sorted%20Lists.ipynb)
+- [Palindrome Number](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Palindrome%20Number.ipynb)
+- [Remove Duplicates from Sorted Array](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Remove%20Duplicates%20from%20Sorted%20Array.ipynb)
+- [Remove Element](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Remove%20Element.ipynb)
+- [Reverse Integer](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Reverse%20Integer.ipynb)
+- [Roman to Integer](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Roman%20to%20Integer.ipynb)
+- [Search Insert Position](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Search%20Insert%20Position.ipynb)
+- [Two Sum](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Two%20Sum.ipynb)
+- [Valid Parentheses](https://github.com/RivoLink/algo-notebook/blob/master/level-1/Valid%20Parentheses.ipynb)
 
 #### Level 2
 
