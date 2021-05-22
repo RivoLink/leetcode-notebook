@@ -48,10 +48,12 @@ ou [LinkedIn](https://www.linkedin.com/mwlite/in/rivo-link).
 
 #### Level 3 
 
-- Median of Two Sorted Arrays
-- Merge k Sorted Lists
-- Regular Expression Matching
-- Reverse Nodes in k-Group
+- [Longest Valid Parentheses](https://github.com/RivoLink/algo-notebook/blob/master/level-3/Longest%20Valid%20Parentheses.ipynb)
+- [Median of Two Sorted Arrays](https://github.com/RivoLink/algo-notebook/blob/master/level-3/Median%20of%20Two%20Sorted%20Arrays.ipynb)
+- [Merge k Sorted Lists](https://github.com/RivoLink/algo-notebook/blob/master/level-3/Merge%20k%20Sorted%20Lists.ipynb)
+- [Regular Expression Matching](https://github.com/RivoLink/algo-notebook/blob/master/level-3/Regular%20Expression%20Matching.ipynb)
+- [Reverse Nodes in k-Group](https://github.com/RivoLink/algo-notebook/blob/master/level-3/Reverse%20Nodes%20in%20k-Group.ipynb)
+- [Substring with Concatenation of All Words](https://github.com/RivoLink/algo-notebook/blob/master/level-3/Substring%20with%20Concatenation%20of%20All%20Words.ipynb)
 
 ### Executer/Modifier un notebook en Local
 
